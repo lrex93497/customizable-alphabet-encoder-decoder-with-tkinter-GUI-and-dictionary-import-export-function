@@ -7,7 +7,7 @@
 ### [Dictionary import and export system](#im-export)
 ### [Error detection](#error)
 ### [System Requirement](#requirement)
-### [License](#license)
+### [License](#licen)
 
 
 <h3 id="intro"> Introduction</h3>
@@ -100,7 +100,7 @@ Another unknown error(s) will result in the same pop-up message box error with "
 Monitor minimum  support 1300x810 <br />
 Python installed, recommended 3.7.3 
 
-<h3 id="license"> License</h3>
+<h3 id="licen"> License</h3>
 This program was distributed under the BSD-3-Clause License.
 
 
