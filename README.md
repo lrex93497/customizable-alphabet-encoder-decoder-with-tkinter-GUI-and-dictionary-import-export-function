@@ -7,7 +7,7 @@
 ### [Dictionary import and export system](#im-export)
 ### [Error detection](#error)
 ### [System Requirement](#requirement)
-### [License](#licence)
+### [License](#license)
 
 
 <h3 id="intro"> Introduction</h3>
@@ -101,6 +101,6 @@ Monitor minimum  support 1300x810 <br />
 Python installed, recommended 3.7.3 
 
 <h3 id="license"> License</h3>
-This program was distributed under the GNU General Public License v3.0.
+This program was distributed under the BSD-3-Clause License.
 
 
