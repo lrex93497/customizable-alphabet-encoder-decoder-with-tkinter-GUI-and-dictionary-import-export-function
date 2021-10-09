@@ -1,5 +1,5 @@
 #customizable_alphabet_encoder-decoder_with_tkinter_GUI_and_dictionar_import_export_function
-#version 1.0
+#version 1.0.1
 import string
 import tkinter as tk
 from tkinter import messagebox
