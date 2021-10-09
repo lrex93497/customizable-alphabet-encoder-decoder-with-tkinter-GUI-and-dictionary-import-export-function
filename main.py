@@ -567,5 +567,5 @@ tk.Grid.rowconfigure(root, 7, weight=1)
 
 
 #root.bind("<Configure>", font_resize)
-
+root.iconbitmap('icon.ico')
 root.mainloop()
